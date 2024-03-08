@@ -1,0 +1,1 @@
+Estos recursos muestan una funcion basica en los lenguajes de programacion php, react js, node js; para proteger de manera basica, una ruta a la que solo puede entrar determinado usuario logueado/registrado
